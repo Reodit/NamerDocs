@@ -48,6 +48,7 @@ var hierarchy =
       [ "CardController", "class_card_controller.html", null ],
       [ "CardRotate", "class_card_rotate.html", null ],
       [ "CreditObjectController", "class_credit_object_controller.html", null ],
+      [ "DoxygenTest", "class_doxygen_test.html", null ],
       [ "EncyclopediaController", "class_encyclopedia_controller.html", null ],
       [ "FlammableRose", "class_flammable_rose.html", null ],
       [ "FloatRose", "class_float_rose.html", null ],

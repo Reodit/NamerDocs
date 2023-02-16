@@ -63,6 +63,7 @@ var NAVTREEINDEX0 =
 "_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4a811882fecd5c7618d7099ebbd39ea254":[2,0,0,0,4,1,1,0],
 "_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4a965dbaac085fc891bfbbd4f9d145bbc8":[2,0,0,0,4,1,1,5],
 "_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4abbb93ef26e3c101ff11cdd21cab08a94":[2,0,0,0,4,1,1,6],
+"_doxygen_test_8cs.html":[2,0,0,0,8,0],
 "_encyclopedia_controller_8cs.html":[2,0,0,0,10,1],
 "_extinguisher_adj_8cs.html":[2,0,0,0,0,0,2],
 "_flame_adj_8cs.html":[2,0,0,0,0,0,3],
@@ -126,7 +127,7 @@ var NAVTREEINDEX0 =
 "_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ac5301693c4e792bcd5a479ef38fb8f8d":[2,0,0,0,6,2,1,1],
 "_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ace5e7ecaa34619ce3cd0f11abbe32bde":[2,0,0,0,6,2,1,4],
 "_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ae599161956d626eda4cb0a5ffb85271c":[2,0,0,0,6,2,1,0],
-"_player_movement_8cs.html":[2,0,0,0,8,0],
+"_player_movement_8cs.html":[2,0,0,0,8,1],
 "_player_owned_states_8cs.html":[2,0,0,0,6,3],
 "_pop_up_name_controller_8cs.html":[2,0,0,0,10,13],
 "_reward_rig_controller_8cs.html":[2,0,0,0,10,14],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "class_detect_manager.html#a7d6bb9174cad25f381cb4a74a3150783":[1,0,13,6],
 "class_detect_manager.html#a7e400ad831d14c7ba9ad5c2a72cf0fe5":[1,0,13,37],
 "class_detect_manager.html#a7eab958d7930ad5c27499adf607005a3":[1,0,13,12],
-"class_detect_manager.html#a7f421cf0e666662672b5a46ca3e79751":[1,0,13,42],
-"class_detect_manager.html#a87acae67f81acbaf31fb70eb3b644503":[1,0,13,15]
+"class_detect_manager.html#a7f421cf0e666662672b5a46ca3e79751":[1,0,13,42]
 };

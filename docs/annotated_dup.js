@@ -23,6 +23,7 @@ var annotated_dup =
     [ "DataInfo", "class_data_info.html", null ],
     [ "DataList", "class_data_list.html", "class_data_list" ],
     [ "DetectManager", "class_detect_manager.html", "class_detect_manager" ],
+    [ "DoxygenTest", "class_doxygen_test.html", null ],
     [ "EncyclopediaController", "class_encyclopedia_controller.html", "class_encyclopedia_controller" ],
     [ "ExtinguisherAdj", "class_extinguisher_adj.html", "class_extinguisher_adj" ],
     [ "FlameAdj", "class_flame_adj.html", "class_flame_adj" ],
