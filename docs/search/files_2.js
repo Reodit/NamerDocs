@@ -7,6 +7,7 @@ var searchData=
   ['cardrotate_2ecs_4',['CardRotate.cs',['../_card_rotate_8cs.html',1,'']]],
   ['checksurrounding_2ecs_5',['CheckSurrounding.cs',['../_check_surrounding_8cs.html',1,'']]],
   ['climbableadj_2ecs_6',['ClimbableAdj.cs',['../_climbable_adj_8cs.html',1,'']]],
-  ['creditobjectcontroller_2ecs_7',['CreditObjectController.cs',['../_credit_object_controller_8cs.html',1,'']]],
-  ['cursormanager_2ecs_8',['CursorManager.cs',['../_cursor_manager_8cs.html',1,'']]]
+  ['climbablerose_2ecs_7',['ClimbableRose.cs',['../_climbable_rose_8cs.html',1,'']]],
+  ['creditobjectcontroller_2ecs_8',['CreditObjectController.cs',['../_credit_object_controller_8cs.html',1,'']]],
+  ['cursormanager_2ecs_9',['CursorManager.cs',['../_cursor_manager_8cs.html',1,'']]]
 ];

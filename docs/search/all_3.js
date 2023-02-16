@@ -4,7 +4,7 @@ var searchData=
   ['ableaddcard_1',['ableAddCard',['../class_card_manager.html#a840e3926b78e3998b56527d2d761dce1',1,'CardManager']]],
   ['ablecardctr_2',['ableCardCtr',['../class_card_manager.html#aafc51f06ebf324ef9a05755370711afc',1,'CardManager']]],
   ['addadjective_3',['AddAdjective',['../class_interactive_object.html#a69b0879b9ccb02f5974dd71bfa916902',1,'InteractiveObject']]],
-  ['addcard_4',['AddCard',['../_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17deac41efda3de3c909a01874d79883e8cac',1,'AddCard():&#160;ScenarioController.cs'],['../class_card_manager.html#ac4a39e57f03519a33c4425760d36eaed',1,'CardManager.AddCard()'],['../_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ac41efda3de3c909a01874d79883e8cac',1,'AddCard():&#160;PlayerEntity.cs']]],
+  ['addcard_4',['AddCard',['../class_card_manager.html#ac4a39e57f03519a33c4425760d36eaed',1,'CardManager.AddCard()'],['../_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17deac41efda3de3c909a01874d79883e8cac',1,'AddCard():&#160;ScenarioController.cs'],['../_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ac41efda3de3c909a01874d79883e8cac',1,'AddCard():&#160;PlayerEntity.cs']]],
   ['addcardrootmotion_5',['AddcardRootmotion',['../class_player_movement.html#ad9b38d39329f99431167d46cd10a3952',1,'PlayerMovement']]],
   ['addcardrootmotionevent_6',['AddCardRootmotionEvent',['../class_player_movement.html#a64ab0b5b04f7c3d35a2c5a006ea65914',1,'PlayerMovement']]],
   ['addcardstate_7',['AddCardState',['../class_player_owned_states_1_1_add_card_state.html',1,'PlayerOwnedStates']]],
@@ -15,7 +15,8 @@ var searchData=
   ['adjective_12',['Adjective',['../_card_enum_8cs.html#a31d6a0534b5fe7639eb828a02e6dbfaaa3f6eca55f973fde1cecca41ae89f1639',1,'CardEnum.cs']]],
   ['adjectivename_13',['adjectiveName',['../struct_s_adjective_info.html#ada0b9bfcf545ffde25d9ed431134aef3',1,'SAdjectiveInfo']]],
   ['adjectiveread_14',['adjectiveRead',['../struct_s_card_view.html#a65b8ca6af011bca56dde06cc965f77dd',1,'SCardView']]],
-  ['adjectives_15',['adjectives',['../struct_name_info.html#a585e2be1cbb56db19d9f4b1c309d93ea',1,'NameInfo.adjectives()'],['../struct_s_name_info.html#ac63427a88d6662421dd3637dbdef2120',1,'SNameInfo.adjectives()'],['../struct_s_object_info.html#afdbfe58bdeaf6fe82a26137d8aed001f',1,'SObjectInfo.adjectives()']]],
-  ['adjectives_16',['Adjectives',['../class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb',1,'InteractiveObject.Adjectives()'],['../class_game_data_manager.html#a02902663be3e7f0c32cd4e85beafdca7',1,'GameDataManager.Adjectives()']]],
-  ['audiomixer_17',['audioMixer',['../class_sound_manager.html#a52e06bd9605781481ab13a3049a36c68',1,'SoundManager']]]
+  ['adjectives_15',['Adjectives',['../class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb',1,'InteractiveObject.Adjectives()'],['../class_game_data_manager.html#a02902663be3e7f0c32cd4e85beafdca7',1,'GameDataManager.Adjectives()']]],
+  ['adjectives_16',['adjectives',['../struct_name_info.html#a585e2be1cbb56db19d9f4b1c309d93ea',1,'NameInfo.adjectives()'],['../struct_s_name_info.html#ac63427a88d6662421dd3637dbdef2120',1,'SNameInfo.adjectives()'],['../struct_s_object_info.html#afdbfe58bdeaf6fe82a26137d8aed001f',1,'SObjectInfo.adjectives()']]],
+  ['amplitude_17',['amplitude',['../class_flame_rose.html#ab484a2e572c9d589e9bfcf9679c4854a',1,'FlameRose.amplitude()'],['../class_freeze_rose.html#aa2ac4289c40c7f4cbc365d93f2528f56',1,'FreezeRose.amplitude()']]],
+  ['audiomixer_18',['audioMixer',['../class_sound_manager.html#a52e06bd9605781481ab13a3049a36c68',1,'SoundManager']]]
 ];

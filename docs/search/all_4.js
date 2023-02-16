@@ -19,6 +19,5 @@ var searchData=
   ['bouncyadj_16',['BouncyAdj',['../class_bouncy_adj.html',1,'']]],
   ['bouncyadj_2ecs_17',['BouncyAdj.cs',['../_bouncy_adj_8cs.html',1,'']]],
   ['bouncyrose_18',['BouncyRose',['../class_bouncy_rose.html',1,'']]],
-  ['bouncyrose_2ecs_19',['BouncyRose.cs',['../_bouncy_rose_8cs.html',1,'']]],
-  ['buttonscheck_20',['ButtonsCheck',['../class_stage_clear_panel_controller.html#aedd476fcc011ac9f1693f5aad8c2fdc1',1,'StageClearPanelController']]]
+  ['bouncyrose_2ecs_19',['BouncyRose.cs',['../_bouncy_rose_8cs.html',1,'']]]
 ];
