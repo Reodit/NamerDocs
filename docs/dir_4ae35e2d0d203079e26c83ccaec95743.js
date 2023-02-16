@@ -6,7 +6,7 @@ var dir_4ae35e2d0d203079e26c83ccaec95743 =
     [ "LevelSelectCardController.cs", "_level_select_card_controller_8cs.html", "_level_select_card_controller_8cs" ],
     [ "LoadingSceneController.cs", "_loading_scene_controller_8cs.html", "_loading_scene_controller_8cs" ],
     [ "LogText.cs", "_log_text_8cs.html", "_log_text_8cs" ],
-    [ "MainMeneCardController.cs", "_main_mene_card_controller_8cs.html", "_main_mene_card_controller_8cs" ],
+    [ "MainMenuCardController.cs", "_main_menu_card_controller_8cs.html", "_main_menu_card_controller_8cs" ],
     [ "MainMenuObject.cs", "_main_menu_object_8cs.html", "_main_menu_object_8cs" ],
     [ "MainUIController.cs", "_main_u_i_controller_8cs.html", "_main_u_i_controller_8cs" ],
     [ "NamingCardController.cs", "_naming_card_controller_8cs.html", "_naming_card_controller_8cs" ],

@@ -49,7 +49,7 @@ var annotated_dup =
     [ "LogText", "class_log_text.html", "class_log_text" ],
     [ "LongAdj", "class_long_adj.html", "class_long_adj" ],
     [ "LongRose", "class_long_rose.html", "class_long_rose" ],
-    [ "MainMeneCardController", "class_main_mene_card_controller.html", "class_main_mene_card_controller" ],
+    [ "MainMenuCardController", "class_main_menu_card_controller.html", "class_main_menu_card_controller" ],
     [ "MainMenuObject", "class_main_menu_object.html", null ],
     [ "MainUIController", "class_main_u_i_controller.html", "class_main_u_i_controller" ],
     [ "MapCreator", "class_map_creator.html", "class_map_creator" ],

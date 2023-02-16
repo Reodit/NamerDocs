@@ -12,7 +12,7 @@ var searchData=
   ['cardmanager_9',['CardManager',['../class_card_manager.html',1,'']]],
   ['cardmanager_2ecs_10',['CardManager.cs',['../_card_manager_8cs.html',1,'']]],
   ['cardprefabname_11',['cardPrefabName',['../struct_s_name_info.html#ab24e07e258d459cb096d6c453507a2f2',1,'SNameInfo.cardPrefabName()'],['../struct_s_adjective_info.html#a95a0fb11a8c7edaa9bad90c78f577b2a',1,'SAdjectiveInfo.cardPrefabName()']]],
-  ['cardreturn_12',['CardReturn',['../class_main_mene_card_controller.html#a936c7676826a499f0d9d07f8e3840f09',1,'MainMeneCardController']]],
+  ['cardreturn_12',['CardReturn',['../class_main_menu_card_controller.html#acd6f77e56271a2590ad4ad715f63cbda',1,'MainMenuCardController']]],
   ['cardrotate_13',['CardRotate',['../class_card_rotate.html',1,'']]],
   ['cardrotate_2ecs_14',['CardRotate.cs',['../_card_rotate_8cs.html',1,'']]],
   ['cardsdown_15',['CardsDown',['../class_card_manager.html#aae6a8c77d975fd607c3ea3c78b4f88f1',1,'CardManager']]],

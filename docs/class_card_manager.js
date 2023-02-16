@@ -15,7 +15,7 @@ var class_card_manager =
     [ "isCardsHide", "class_card_manager.html#a1d86c7c153d0e92b467b2fd2fd46eac8", null ],
     [ "isEncyclopedia", "class_card_manager.html#a621d9509e92cf4b204e947b8ae2c1f6b", null ],
     [ "isPickCard", "class_card_manager.html#a6ee37e263a78a6d0b546ec0ff5621268", null ],
-    [ "mainCards", "class_card_manager.html#a331f5f6b030222efb3712796f91215e1", null ],
+    [ "mainCards", "class_card_manager.html#a5204a866b015907ef063ef0370c46ddf", null ],
     [ "myCards", "class_card_manager.html#af78c8c2ef39f35d47c1eebaaf6e98425", null ],
     [ "pickCard", "class_card_manager.html#aec823963cf7304659a7578126830694e", null ],
     [ "target", "class_card_manager.html#aa7cb81754e6873a30761e900367e4764", null ]

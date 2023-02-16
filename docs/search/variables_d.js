@@ -6,5 +6,5 @@ var searchData=
   ['objectinfodata_3',['objectInfoData',['../struct_s_map_data.html#a8df4778806b39ea2669676de5853c091',1,'SMapData']]],
   ['objectmapdata_4',['objectMapData',['../struct_s_map_data.html#a26076c40b69b4935b1d10a0a63124e9c',1,'SMapData']]],
   ['op_5',['op',['../class_loading_scene_controller.html#a5d51674cfb9fd07e28eb5e7e53125de1',1,'LoadingSceneController']]],
-  ['originprs_6',['originPRS',['../class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56',1,'CardController.originPRS()'],['../class_main_mene_card_controller.html#a9e42cd72c9e5e874ac8bf3f8826c78bb',1,'MainMeneCardController.originPRS()']]]
+  ['originprs_6',['originPRS',['../class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56',1,'CardController.originPRS()'],['../class_main_menu_card_controller.html#a4953a77d135314b01b8962b3c51ef9e9',1,'MainMenuCardController.originPRS()']]]
 ];

@@ -59,7 +59,7 @@ var hierarchy =
       [ "LoadingSceneController", "class_loading_scene_controller.html", null ],
       [ "LogText", "class_log_text.html", null ],
       [ "LongRose", "class_long_rose.html", null ],
-      [ "MainMeneCardController", "class_main_mene_card_controller.html", null ],
+      [ "MainMenuCardController", "class_main_menu_card_controller.html", null ],
       [ "MainMenuObject", "class_main_menu_object.html", null ],
       [ "MainUIController", "class_main_u_i_controller.html", null ],
       [ "MapCreator", "class_map_creator.html", null ],

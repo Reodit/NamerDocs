@@ -20,5 +20,5 @@ var searchData=
   ['optionpanelcontroller_17',['OptionPanelController',['../class_option_panel_controller.html',1,'']]],
   ['optionpanelcontroller_2ecs_18',['OptionPanelController.cs',['../_option_panel_controller_8cs.html',1,'']]],
   ['optionpanelopen_19',['OptionPanelOpen',['../class_main_u_i_controller.html#abcf32ce0b9340ba1cc22b677f9a0fc1b',1,'MainUIController']]],
-  ['originprs_20',['originPRS',['../class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56',1,'CardController.originPRS()'],['../class_main_mene_card_controller.html#a9e42cd72c9e5e874ac8bf3f8826c78bb',1,'MainMeneCardController.originPRS()']]]
+  ['originprs_20',['originPRS',['../class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56',1,'CardController.originPRS()'],['../class_main_menu_card_controller.html#a4953a77d135314b01b8962b3c51ef9e9',1,'MainMenuCardController.originPRS()']]]
 ];
