@@ -68,6 +68,7 @@ var hierarchy =
       [ "FreezeRose", "class_freeze_rose.html", null ],
       [ "IngameCanvasController", "class_ingame_canvas_controller.html", null ],
       [ "InteractiveObject", "class_interactive_object.html", null ],
+      [ "LevelEditor", "class_level_editor.html", null ],
       [ "LevelInfos", "class_level_infos.html", null ],
       [ "LevelSelectCardController", "class_level_select_card_controller.html", null ],
       [ "LoadingSceneController", "class_loading_scene_controller.html", null ],

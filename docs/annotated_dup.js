@@ -47,6 +47,7 @@ var annotated_dup =
     [ "InteractionSequencer", "class_interaction_sequencer.html", "class_interaction_sequencer" ],
     [ "InteractiveObject", "class_interactive_object.html", "class_interactive_object" ],
     [ "IState", "interface_i_state.html", "interface_i_state" ],
+    [ "LevelEditor", "class_level_editor.html", null ],
     [ "LevelInfos", "class_level_infos.html", "class_level_infos" ],
     [ "LevelSelectCardController", "class_level_select_card_controller.html", "class_level_select_card_controller" ],
     [ "LightAdj", "class_light_adj.html", "class_light_adj" ],
