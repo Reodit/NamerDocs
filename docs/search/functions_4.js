@@ -19,11 +19,12 @@ var searchData=
   ['climbrootmotion_16',['ClimbRootmotion',['../class_player_movement.html#a3d54bde517787cbe619a11836cd568cc',1,'PlayerMovement']]],
   ['climbrootmotionevent_17',['ClimbRootmotionEvent',['../class_player_movement.html#ae888b06c850d1e212fc3e1ed00ebc386',1,'PlayerMovement']]],
   ['compare_18',['Compare',['../class_function_comparer.html#af9c134f1252066739d07d3c7c9ce3daf',1,'FunctionComparer']]],
-  ['createcsvfile_19',['CreateCsvFile',['../class_save_load_file.html#a0f479a24f40652f02b38959bd13a88cb',1,'SaveLoadFile']]],
-  ['createfile_20',['CreateFile',['../class_game_data_manager.html#a7cd05111fc107e6b983f20f0cf36ac46',1,'GameDataManager']]],
-  ['createjsonfile_3c_20t_20_3e_21',['CreateJsonFile&lt; T &gt;',['../class_save_load_file.html#ad3da972bad56da55c735a2886d1c9bc1',1,'SaveLoadFile']]],
-  ['createmap_22',['CreateMap',['../class_game_data_manager.html#a8607eed21d09a3387b531e6e9548b6aa',1,'GameDataManager']]],
-  ['createobjectmap_23',['CreateObjectMap',['../class_map_creator.html#a931356ae921f15293618db6f7095c34b',1,'MapCreator']]],
-  ['createtilemap_24',['CreateTileMap',['../class_map_creator.html#a1d41cd82c3dddbb75dbb9d79ea097d61',1,'MapCreator']]],
-  ['creditscene_25',['CreditScene',['../class_main_u_i_controller.html#a6e6329571c72835db839dfc0951c3160',1,'MainUIController']]]
+  ['controljoysticklever_19',['ControlJoystickLever',['../class_virtual_joystick.html#abbc7da7f93c4a811bd3931fceff43e74',1,'VirtualJoystick']]],
+  ['createcsvfile_20',['CreateCsvFile',['../class_save_load_file.html#a0f479a24f40652f02b38959bd13a88cb',1,'SaveLoadFile']]],
+  ['createfile_21',['CreateFile',['../class_game_data_manager.html#a7cd05111fc107e6b983f20f0cf36ac46',1,'GameDataManager']]],
+  ['createjsonfile_3c_20t_20_3e_22',['CreateJsonFile&lt; T &gt;',['../class_save_load_file.html#ad3da972bad56da55c735a2886d1c9bc1',1,'SaveLoadFile']]],
+  ['createmap_23',['CreateMap',['../class_game_data_manager.html#a8607eed21d09a3387b531e6e9548b6aa',1,'GameDataManager']]],
+  ['createobjectmap_24',['CreateObjectMap',['../class_map_creator.html#a931356ae921f15293618db6f7095c34b',1,'MapCreator']]],
+  ['createtilemap_25',['CreateTileMap',['../class_map_creator.html#a1d41cd82c3dddbb75dbb9d79ea097d61',1,'MapCreator']]],
+  ['creditscene_26',['CreditScene',['../class_main_u_i_controller.html#a6e6329571c72835db839dfc0951c3160',1,'MainUIController']]]
 ];

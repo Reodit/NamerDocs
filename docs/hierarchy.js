@@ -19,8 +19,17 @@ var hierarchy =
       [ "ObtainableAdj", "class_obtainable_adj.html", null ],
       [ "WinAdj", "class_win_adj.html", null ]
     ] ],
+    [ "IBeginDragHandler", null, [
+      [ "VirtualJoystick", "class_virtual_joystick.html", null ]
+    ] ],
     [ "IComparer", null, [
       [ "FunctionComparer", "class_function_comparer.html", null ]
+    ] ],
+    [ "IDragHandler", null, [
+      [ "VirtualJoystick", "class_virtual_joystick.html", null ]
+    ] ],
+    [ "IEndDragHandler", null, [
+      [ "VirtualJoystick", "class_virtual_joystick.html", null ]
     ] ],
     [ "IPointerEnterHandler", null, [
       [ "IngameCanvasController", "class_ingame_canvas_controller.html", null ]
@@ -84,6 +93,7 @@ var hierarchy =
       [ "StageClearPanelController", "class_stage_clear_panel_controller.html", null ],
       [ "StageNameController", "class_stage_name_controller.html", null ],
       [ "StateMachineRunner", "class_state_machine_runner.html", null ],
+      [ "VirtualJoystick", "class_virtual_joystick.html", null ],
       [ "WinRose", "class_win_rose.html", null ]
     ] ],
     [ "NameInfo", "struct_name_info.html", null ],

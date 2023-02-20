@@ -1,5 +1,9 @@
 var NAVTREEINDEX1 =
 {
+"class_detect_manager.html#a5d4f75d81968b21a3c427178d82fbb6c":[1,0,14,40],
+"class_detect_manager.html#a62c7835aeb44f00ec41ae190032574aa":[1,0,14,28],
+"class_detect_manager.html#a64b1ee9d1b010de416aa44d78b9eaf1f":[1,0,14,45],
+"class_detect_manager.html#a66d6776583b765527d7ba646e0458d9e":[1,0,14,18],
 "class_detect_manager.html#a6ad2ffc48e467953f880a9289c2f3c50":[1,0,14,0],
 "class_detect_manager.html#a723fc824fd4bfdc6f37860dad3327fa0":[1,0,14,30],
 "class_detect_manager.html#a7cdff4ac1300b80dc79a27da6d8d18a7":[1,0,14,14],
@@ -245,9 +249,5 @@ var NAVTREEINDEX1 =
 "class_long_adj.html#a6983cc2c1b6091c9d4536bcfbe5387ce":[1,0,43,9],
 "class_long_adj.html#ae00ce2c21ad68243c97482264508caa7":[1,0,43,7],
 "class_long_adj.html#af2bce4f2d22e4566d5c2175b8e16dc01":[1,0,43,8],
-"class_long_adj.html#afc432ed08242abad6379d11f869d256a":[1,0,43,4],
-"class_long_rose.html":[1,0,44],
-"class_long_rose.html#a4b3243cb3a39598cb22356125ee72041":[1,0,44,0],
-"class_main_menu_card_controller.html":[1,0,45],
-"class_main_menu_card_controller.html#a0a509caf7c8da219b5f1214499ed9f6c":[1,0,45,2]
+"class_long_adj.html#afc432ed08242abad6379d11f869d256a":[1,0,43,4]
 };

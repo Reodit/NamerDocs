@@ -17,5 +17,6 @@ var dir_4ae35e2d0d203079e26c83ccaec95743 =
     [ "RewardRigController.cs", "_reward_rig_controller_8cs.html", "_reward_rig_controller_8cs" ],
     [ "SoundPanelController.cs", "_sound_panel_controller_8cs.html", "_sound_panel_controller_8cs" ],
     [ "StageClearPanelController.cs", "_stage_clear_panel_controller_8cs.html", "_stage_clear_panel_controller_8cs" ],
-    [ "StageNameController.cs", "_stage_name_controller_8cs.html", "_stage_name_controller_8cs" ]
+    [ "StageNameController.cs", "_stage_name_controller_8cs.html", "_stage_name_controller_8cs" ],
+    [ "VirtualJoystick.cs", "_virtual_joystick_8cs.html", "_virtual_joystick_8cs" ]
 ];

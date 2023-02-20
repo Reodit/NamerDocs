@@ -95,6 +95,7 @@ var annotated_dup =
     [ "StateMachineRunner", "class_state_machine_runner.html", "class_state_machine_runner" ],
     [ "SUserData", "struct_s_user_data.html", "struct_s_user_data" ],
     [ "UIManager", "class_u_i_manager.html", "class_u_i_manager" ],
+    [ "VirtualJoystick", "class_virtual_joystick.html", "class_virtual_joystick" ],
     [ "WinAdj", "class_win_adj.html", "class_win_adj" ],
     [ "WinRose", "class_win_rose.html", null ]
 ];

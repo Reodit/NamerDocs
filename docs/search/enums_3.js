@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['mainmenustate_0',['MainMenuState',['../_main_u_i_controller_8cs.html#a18a725024ae7d7d2e40fc2a1ce9d1bf5',1,'MainUIController.cs']]]
+  ['inputtype_0',['InputType',['../_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839bab',1,'PlayerMovement.cs']]]
 ];

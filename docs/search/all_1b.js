@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['갱신전위치_0',['갱신전위치',['../_detect_manager_8_get_adjacent_8cs.html#ad1fa7796584ba1d610a80620706edd35',1,'DetectManager.GetAdjacent.cs']]]
+  ['z_0',['z',['../struct_s_position.html#aca37dd6a498a9e6f03caa937b96fa05f',1,'SPosition']]]
 ];

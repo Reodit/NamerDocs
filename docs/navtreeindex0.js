@@ -133,6 +133,9 @@ var NAVTREEINDEX0 =
 "_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ace5e7ecaa34619ce3cd0f11abbe32bde":[2,0,0,0,6,2,1,4],
 "_player_entity_8cs.html#a04d5a76e035aaa4552f4958cc143ed28ae599161956d626eda4cb0a5ffb85271c":[2,0,0,0,6,2,1,0],
 "_player_movement_8cs.html":[2,0,0,0,8,1],
+"_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839bab":[2,0,0,0,8,1,1],
+"_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839baba1162b85b7b993e2edf7da29dd8abf7e2":[2,0,0,0,8,1,1,1],
+"_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839baba6ce4d85a628a88bbdb3ac24a8e5a9c2e":[2,0,0,0,8,1,1,0],
 "_player_owned_states_8cs.html":[2,0,0,0,6,3],
 "_pop_up_name_controller_8cs.html":[2,0,0,0,10,13],
 "_reward_rig_controller_8cs.html":[2,0,0,0,10,14],
@@ -158,6 +161,7 @@ var NAVTREEINDEX0 =
 "_state_machine_8cs.html":[2,0,0,0,6,4],
 "_state_machine_runner_8cs.html":[2,0,0,0,6,5],
 "_u_i_manager_8cs.html":[2,0,0,0,7,8],
+"_virtual_joystick_8cs.html":[2,0,0,0,10,18],
 "_win_adj_8cs.html":[2,0,0,0,0,0,15],
 "_win_rose_8cs.html":[2,0,0,0,2,0,10],
 "annotated.html":[1,0],
@@ -245,9 +249,5 @@ var NAVTREEINDEX0 =
 "class_detect_manager.html#a4ee4db295b737880f771405de4a550e0":[1,0,14,20],
 "class_detect_manager.html#a560de49f038e4dc672599bd1561c1774":[1,0,14,9],
 "class_detect_manager.html#a59a9f052fbd5e0f95622cde708de3586":[1,0,14,32],
-"class_detect_manager.html#a5a28e44c22954543d712dcbd1f0c1914":[1,0,14,35],
-"class_detect_manager.html#a5d4f75d81968b21a3c427178d82fbb6c":[1,0,14,40],
-"class_detect_manager.html#a62c7835aeb44f00ec41ae190032574aa":[1,0,14,28],
-"class_detect_manager.html#a64b1ee9d1b010de416aa44d78b9eaf1f":[1,0,14,45],
-"class_detect_manager.html#a66d6776583b765527d7ba646e0458d9e":[1,0,14,18]
+"class_detect_manager.html#a5a28e44c22954543d712dcbd1f0c1914":[1,0,14,35]
 };
