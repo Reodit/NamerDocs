@@ -1,5 +1,5 @@
 var class_map_creator =
 [
-    [ "CreateObjectMap", "class_map_creator.html#a931356ae921f15293618db6f7095c34b", null ],
-    [ "CreateTileMap", "class_map_creator.html#a1d41cd82c3dddbb75dbb9d79ea097d61", null ]
+    [ "CreateObjectMap", "class_map_creator.html#a7e28b27f6810351cfbbe8b3ee5c29d25", null ],
+    [ "CreateTileMap", "class_map_creator.html#ac36804e4130b116dad412b08294290f9", null ]
 ];
