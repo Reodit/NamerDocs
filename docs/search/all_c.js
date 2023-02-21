@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['joystick_0',['Joystick',['../_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839baba1162b85b7b993e2edf7da29dd8abf7e2',1,'PlayerMovement.cs']]]
+  ['keyaction_0',['KeyAction',['../class_game_manager.html#a164a0b9282c2f16b98330c5589f250d9',1,'GameManager']]]
 ];

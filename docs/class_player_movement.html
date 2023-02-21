@@ -110,19 +110,21 @@ Collaboration diagram for PlayerMovement:</div>
 <div class="dyncontent">
 <div class="center"><img src="class_player_movement__coll__graph.png" border="0" usemap="#a_player_movement_coll__map" alt="Collaboration graph"/></div>
 <map name="a_player_movement_coll__map" id="a_player_movement_coll__map">
-<area shape="rect" title=" " alt="" coords="5,487,216,769"/>
+<area shape="rect" title=" " alt="" coords="5,501,216,784"/>
 <area shape="rect" title=" " alt="" coords="49,5,161,83"/>
 <area shape="rect" href="class_base_game_entity.html" title=" " alt="" coords="141,132,262,239"/>
-<area shape="rect" href="class_player_entity.html" title=" " alt="" coords="127,288,305,424"/>
+<area shape="rect" href="class_player_entity.html" title=" " alt="" coords="127,288,305,439"/>
 </map>
 </div>
 <table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
 Public Member Functions</h2></td></tr>
-<tr class="memitem:ade357ccd69050d754cf638784f4f1cc5"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#ade357ccd69050d754cf638784f4f1cc5">PlayerMove</a> (Vector3 inputVec)</td></tr>
-<tr class="separator:ade357ccd69050d754cf638784f4f1cc5"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6bf3da8be178b597f94cf6f38f0d4af3"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a6bf3da8be178b597f94cf6f38f0d4af3">Init</a> ()</td></tr>
+<tr class="separator:a6bf3da8be178b597f94cf6f38f0d4af3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:afb75103f95096ec9634c4b5bbbff748d"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#afb75103f95096ec9634c4b5bbbff748d">MoveKeyInput</a> ()</td></tr>
 <tr class="separator:afb75103f95096ec9634c4b5bbbff748d"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab18a10604f73e4472e07ef4d68ea778f"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#ab18a10604f73e4472e07ef4d68ea778f">PlayInteraction</a> ()</td></tr>
+<tr class="separator:ab18a10604f73e4472e07ef4d68ea778f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a1e71549f9cb37285c543fdc293217688"><td class="memItemLeft" align="right" valign="top">IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a1e71549f9cb37285c543fdc293217688">SetRotationBeforeInteraction</a> ()</td></tr>
 <tr class="separator:a1e71549f9cb37285c543fdc293217688"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a22ed71cf047418e3d45fd345ba919533"><td class="memItemLeft" align="right" valign="top">IEnumerator&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a22ed71cf047418e3d45fd345ba919533">SetPositionBeforeInteraction</a> (Transform targetObjTransform)</td></tr>
@@ -142,6 +144,8 @@ Public Member Functions</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
+<tr class="memitem:a479c33e9055cee644caf80a87f50735f"><td class="memItemLeft" align="right" valign="top">Rigidbody&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a479c33e9055cee644caf80a87f50735f">rb</a></td></tr>
+<tr class="separator:a479c33e9055cee644caf80a87f50735f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a873aaf56e530c9e693b08e43b36e7155"><td class="memItemLeft" align="right" valign="top"><a class="el" href="class_player_entity.html">PlayerEntity</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a873aaf56e530c9e693b08e43b36e7155">playerEntity</a></td></tr>
 <tr class="separator:a873aaf56e530c9e693b08e43b36e7155"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:aeb765555406dc4e5c526a376e3b082dc"><td class="memItemLeft" align="right" valign="top">GameObject&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#aeb765555406dc4e5c526a376e3b082dc">interactObj</a></td></tr>
@@ -152,10 +156,6 @@ Public Attributes</h2></td></tr>
 <tr class="separator:a93207dc2742fe0f0b651a54d610b14aa"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac5b845ce97508dd8ae951990fe293887"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#ac5b845ce97508dd8ae951990fe293887">rotateSpeed</a></td></tr>
 <tr class="separator:ac5b845ce97508dd8ae951990fe293887"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a52ab2d03fb3f61b818b85c4e8b7af7b6"><td class="memItemLeft" align="right" valign="top">Vector3&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a52ab2d03fb3f61b818b85c4e8b7af7b6">inputVector</a></td></tr>
-<tr class="separator:a52ab2d03fb3f61b818b85c4e8b7af7b6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a5feebf25abfd664d4c1d7e1c90b18aa2"><td class="memItemLeft" align="right" valign="top"><a class="el" href="_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839bab">InputType</a>&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_player_movement.html#a5feebf25abfd664d4c1d7e1c90b18aa2">inputType</a></td></tr>
-<tr class="separator:a5feebf25abfd664d4c1d7e1c90b18aa2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Member Function Documentation</h2>
 <a id="ad9b38d39329f99431167d46cd10a3952" name="ad9b38d39329f99431167d46cd10a3952"></a>
@@ -272,6 +272,37 @@ Here is the call graph for this function:</div>
 
 </div>
 </div>
+<a id="a6bf3da8be178b597f94cf6f38f0d4af3" name="a6bf3da8be178b597f94cf6f38f0d4af3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6bf3da8be178b597f94cf6f38f0d4af3">&#9670;&#160;</a></span>Init()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void PlayerMovement.Init </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_player_movement_a6bf3da8be178b597f94cf6f38f0d4af3_cgraph.png" border="0" usemap="#aclass_player_movement_a6bf3da8be178b597f94cf6f38f0d4af3_cgraph" alt=""/></div>
+<map name="aclass_player_movement_a6bf3da8be178b597f94cf6f38f0d4af3_cgraph" id="aclass_player_movement_a6bf3da8be178b597f94cf6f38f0d4af3_cgraph">
+<area shape="rect" title=" " alt="" coords="5,80,148,105"/>
+<area shape="rect" href="class_player_entity.html#a8551ddccc7dae7b76511755659cbcf4e" title=" " alt="" coords="216,31,387,56"/>
+<area shape="rect" href="class_player_movement.html#afb75103f95096ec9634c4b5bbbff748d" title=" " alt="" coords="197,80,405,105"/>
+<area shape="rect" href="class_player_movement.html#ab18a10604f73e4472e07ef4d68ea778f" title=" " alt="" coords="196,129,407,155"/>
+<area shape="rect" href="class_state_machine.html#a300ccb3969b54bc33627517b88873fb4" title=" " alt="" coords="455,31,637,56"/>
+<area shape="rect" href="interface_i_state.html#a488c41a61bcfba20f9ed761b23fab5fb" title=" " alt="" coords="685,5,777,31"/>
+<area shape="rect" href="interface_i_state.html#a96881adcf8bf38267d034726aa293dfa" title=" " alt="" coords="689,55,773,80"/>
+</map>
+</div>
+
+</div>
+</div>
 <a id="afb75103f95096ec9634c4b5bbbff748d" name="afb75103f95096ec9634c4b5bbbff748d"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#afb75103f95096ec9634c4b5bbbff748d">&#9670;&#160;</a></span>MoveKeyInput()</h2>
 
@@ -286,43 +317,39 @@ Here is the call graph for this function:</div>
         </tr>
       </table>
 </div><div class="memdoc">
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="class_player_movement_afb75103f95096ec9634c4b5bbbff748d_icgraph.png" border="0" usemap="#aclass_player_movement_afb75103f95096ec9634c4b5bbbff748d_icgraph" alt=""/></div>
+<map name="aclass_player_movement_afb75103f95096ec9634c4b5bbbff748d_icgraph" id="aclass_player_movement_afb75103f95096ec9634c4b5bbbff748d_icgraph">
+<area shape="rect" title=" " alt="" coords="196,5,404,31"/>
+<area shape="rect" href="class_player_movement.html#a6bf3da8be178b597f94cf6f38f0d4af3" title=" " alt="" coords="5,5,148,31"/>
+</map>
+</div>
 
 </div>
 </div>
-<a id="ade357ccd69050d754cf638784f4f1cc5" name="ade357ccd69050d754cf638784f4f1cc5"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ade357ccd69050d754cf638784f4f1cc5">&#9670;&#160;</a></span>PlayerMove()</h2>
+<a id="ab18a10604f73e4472e07ef4d68ea778f" name="ab18a10604f73e4472e07ef4d68ea778f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab18a10604f73e4472e07ef4d68ea778f">&#9670;&#160;</a></span>PlayInteraction()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">void PlayerMovement.PlayerMove </td>
+          <td class="memname">void PlayerMovement.PlayInteraction </td>
           <td>(</td>
-          <td class="paramtype">Vector3&#160;</td>
-          <td class="paramname"><em>inputVec</em></td><td>)</td>
+          <td class="paramname"></td><td>)</td>
           <td></td>
         </tr>
       </table>
 </div><div class="memdoc">
 <div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="class_player_movement_ade357ccd69050d754cf638784f4f1cc5_cgraph.png" border="0" usemap="#aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_cgraph" alt=""/></div>
-<map name="aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_cgraph" id="aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_cgraph">
-<area shape="rect" title=" " alt="" coords="5,31,199,56"/>
-<area shape="rect" href="class_player_entity.html#a8551ddccc7dae7b76511755659cbcf4e" title=" " alt="" coords="247,31,417,56"/>
-<area shape="rect" href="class_state_machine.html#a300ccb3969b54bc33627517b88873fb4" title=" " alt="" coords="465,31,648,56"/>
-<area shape="rect" href="interface_i_state.html#a488c41a61bcfba20f9ed761b23fab5fb" title=" " alt="" coords="696,5,788,31"/>
-<area shape="rect" href="interface_i_state.html#a96881adcf8bf38267d034726aa293dfa" title=" " alt="" coords="700,55,784,80"/>
-</map>
-</div>
-<div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
-<div class="center"><img src="class_player_movement_ade357ccd69050d754cf638784f4f1cc5_icgraph.png" border="0" usemap="#aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_icgraph" alt=""/></div>
-<map name="aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_icgraph" id="aclass_player_movement_ade357ccd69050d754cf638784f4f1cc5_icgraph">
-<area shape="rect" title=" " alt="" coords="236,13,429,38"/>
-<area shape="rect" href="class_virtual_joystick.html#af58035001bbe0d751f4b6fb9a3d15fb1" title=" " alt="" coords="5,5,188,45"/>
+<div class="center"><img src="class_player_movement_ab18a10604f73e4472e07ef4d68ea778f_icgraph.png" border="0" usemap="#aclass_player_movement_ab18a10604f73e4472e07ef4d68ea778f_icgraph" alt=""/></div>
+<map name="aclass_player_movement_ab18a10604f73e4472e07ef4d68ea778f_icgraph" id="aclass_player_movement_ab18a10604f73e4472e07ef4d68ea778f_icgraph">
+<area shape="rect" title=" " alt="" coords="196,5,407,31"/>
+<area shape="rect" href="class_player_movement.html#a6bf3da8be178b597f94cf6f38f0d4af3" title=" " alt="" coords="5,5,148,31"/>
 </map>
 </div>
 
@@ -452,34 +479,6 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a5feebf25abfd664d4c1d7e1c90b18aa2" name="a5feebf25abfd664d4c1d7e1c90b18aa2"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a5feebf25abfd664d4c1d7e1c90b18aa2">&#9670;&#160;</a></span>inputType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname"><a class="el" href="_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839bab">InputType</a> PlayerMovement.inputType</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
-<a id="a52ab2d03fb3f61b818b85c4e8b7af7b6" name="a52ab2d03fb3f61b818b85c4e8b7af7b6"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a52ab2d03fb3f61b818b85c4e8b7af7b6">&#9670;&#160;</a></span>inputVector</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">Vector3 PlayerMovement.inputVector</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
-
-</div>
-</div>
 <a id="aeb765555406dc4e5c526a376e3b082dc" name="aeb765555406dc4e5c526a376e3b082dc"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#aeb765555406dc4e5c526a376e3b082dc">&#9670;&#160;</a></span>interactObj</h2>
 
@@ -516,6 +515,20 @@ Here is the caller graph for this function:</div>
       <table class="memname">
         <tr>
           <td class="memname"><a class="el" href="class_player_entity.html">PlayerEntity</a> PlayerMovement.playerEntity</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+</div>
+</div>
+<a id="a479c33e9055cee644caf80a87f50735f" name="a479c33e9055cee644caf80a87f50735f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a479c33e9055cee644caf80a87f50735f">&#9670;&#160;</a></span>rb</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Rigidbody PlayerMovement.rb</td>
         </tr>
       </table>
 </div><div class="memdoc">

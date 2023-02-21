@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['virtualjoystick_0',['VirtualJoystick',['../class_virtual_joystick.html',1,'']]]
+  ['uimanager_0',['UIManager',['../class_u_i_manager.html',1,'']]]
 ];

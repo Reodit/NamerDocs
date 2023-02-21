@@ -9,8 +9,10 @@ var searchData=
   ['clearlevel_6',['clearLevel',['../struct_s_user_data.html#a2d077cdc6d469f7ef4f6f941651940e6',1,'SUserData']]],
   ['contenttext_7',['contentText',['../struct_name_info.html#a17817bcdecd54c0c1b0ef44e04bfc9b6',1,'NameInfo.contentText()'],['../struct_s_name_info.html#a386c2b743fb17edd9047b66531c949cc',1,'SNameInfo.contentText()'],['../struct_s_adjective_info.html#a5453f37fbd008d3cce4ce58684ec953d',1,'SAdjectiveInfo.contentText()']]],
   ['coroutinequeue_8',['CoroutineQueue',['../class_interaction_sequencer.html#a790fe1ad85d0eb6d0f62d4540aa5b390',1,'InteractionSequencer']]],
-  ['curobjectinfo_9',['curObjectInfo',['../class_detect_manager.html#a5d4f75d81968b21a3c427178d82fbb6c',1,'DetectManager']]],
-  ['currentlevelname_10',['currentLevelName',['../class_card_controller.html#ab005c71ee3314f6b93191fa32b3e35bd',1,'CardController']]],
-  ['currenttiles_11',['currentTiles',['../class_detect_manager.html#af91b560a7cc472d788cd7e4edeb84997',1,'DetectManager']]],
-  ['curtime_12',['curTime',['../class_log_text.html#a6f161b9b49edcf45d955077a45c8b640',1,'LogText']]]
+  ['curbgmsoundtrack_9',['curBGMSoundTrack',['../class_sound_manager.html#a0d0263b8e97a005b9155630ee5a26d6d',1,'SoundManager']]],
+  ['curobjectinfo_10',['curObjectInfo',['../class_detect_manager.html#a5d4f75d81968b21a3c427178d82fbb6c',1,'DetectManager']]],
+  ['currentlevelname_11',['currentLevelName',['../class_card_controller.html#ab005c71ee3314f6b93191fa32b3e35bd',1,'CardController']]],
+  ['currentstates_12',['currentStates',['../class_player_entity.html#a5d0f0278bda584d3a6209bab870501a4',1,'PlayerEntity']]],
+  ['currenttiles_13',['currentTiles',['../class_detect_manager.html#af91b560a7cc472d788cd7e4edeb84997',1,'DetectManager']]],
+  ['curtime_14',['curTime',['../class_log_text.html#a6f161b9b49edcf45d955077a45c8b640',1,'LogText']]]
 ];

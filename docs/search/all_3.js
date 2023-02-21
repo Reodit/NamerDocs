@@ -15,8 +15,8 @@ var searchData=
   ['adjective_12',['Adjective',['../_card_enum_8cs.html#a31d6a0534b5fe7639eb828a02e6dbfaaa3f6eca55f973fde1cecca41ae89f1639',1,'CardEnum.cs']]],
   ['adjectivename_13',['adjectiveName',['../struct_s_adjective_info.html#ada0b9bfcf545ffde25d9ed431134aef3',1,'SAdjectiveInfo']]],
   ['adjectiveread_14',['adjectiveRead',['../struct_s_card_view.html#a65b8ca6af011bca56dde06cc965f77dd',1,'SCardView']]],
-  ['adjectives_15',['adjectives',['../struct_name_info.html#a585e2be1cbb56db19d9f4b1c309d93ea',1,'NameInfo.adjectives()'],['../struct_s_name_info.html#ac63427a88d6662421dd3637dbdef2120',1,'SNameInfo.adjectives()'],['../struct_s_object_info.html#afdbfe58bdeaf6fe82a26137d8aed001f',1,'SObjectInfo.adjectives()']]],
-  ['adjectives_16',['Adjectives',['../class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb',1,'InteractiveObject.Adjectives()'],['../class_game_data_manager.html#a02902663be3e7f0c32cd4e85beafdca7',1,'GameDataManager.Adjectives()']]],
-  ['amplitude_17',['amplitude',['../class_flame_rose.html#ab484a2e572c9d589e9bfcf9679c4854a',1,'FlameRose.amplitude()'],['../class_freeze_rose.html#aa2ac4289c40c7f4cbc365d93f2528f56',1,'FreezeRose.amplitude()']]],
+  ['adjectives_15',['Adjectives',['../class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb',1,'InteractiveObject.Adjectives()'],['../class_game_data_manager.html#a02902663be3e7f0c32cd4e85beafdca7',1,'GameDataManager.Adjectives()']]],
+  ['adjectives_16',['adjectives',['../struct_name_info.html#a585e2be1cbb56db19d9f4b1c309d93ea',1,'NameInfo.adjectives()'],['../struct_s_name_info.html#ac63427a88d6662421dd3637dbdef2120',1,'SNameInfo.adjectives()'],['../struct_s_object_info.html#afdbfe58bdeaf6fe82a26137d8aed001f',1,'SObjectInfo.adjectives()']]],
+  ['amplitude_17',['amplitude',['../class_freeze_adj.html#a6cfa989e1cc2d6d610012c33fda86133',1,'FreezeAdj.amplitude()'],['../class_flame_rose.html#ab484a2e572c9d589e9bfcf9679c4854a',1,'FlameRose.amplitude()'],['../class_freeze_rose.html#aa2ac4289c40c7f4cbc365d93f2528f56',1,'FreezeRose.amplitude()'],['../class_fire_ball.html#abebc16cbb632a22cb52ca375d1335110',1,'FireBall.amplitude()']]],
   ['audiomixer_18',['audioMixer',['../class_sound_manager.html#a52e06bd9605781481ab13a3049a36c68',1,'SoundManager']]]
 ];

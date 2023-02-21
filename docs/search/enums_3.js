@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['inputtype_0',['InputType',['../_player_movement_8cs.html#a5fc772c800c3d40d2b95564e8a839bab',1,'PlayerMovement.cs']]]
+  ['gamestates_0',['GameStates',['../_game_manager_8cs.html#ae3a29b920db0912c06cb59c2a21688ad',1,'GameManager.cs']]]
 ];

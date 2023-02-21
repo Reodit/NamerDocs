@@ -42,10 +42,10 @@ var hierarchy =
       [ "PlayerOwnedStates.AddCardState", "class_player_owned_states_1_1_add_card_state.html", null ],
       [ "PlayerOwnedStates.ClimbState", "class_player_owned_states_1_1_climb_state.html", null ],
       [ "PlayerOwnedStates.IdleState", "class_player_owned_states_1_1_idle_state.html", null ],
+      [ "PlayerOwnedStates.MoveState", "class_player_owned_states_1_1_move_state.html", null ],
       [ "PlayerOwnedStates.ObtainState", "class_player_owned_states_1_1_obtain_state.html", null ],
       [ "PlayerOwnedStates.PushState", "class_player_owned_states_1_1_push_state.html", null ],
-      [ "PlayerOwnedStates.RunState", "class_player_owned_states_1_1_run_state.html", null ],
-      [ "PlayerOwnedStates.WalkState", "class_player_owned_states_1_1_walk_state.html", null ],
+      [ "PlayerOwnedStates.TeeterState", "class_player_owned_states_1_1_teeter_state.html", null ],
       [ "PlayerOwnedStates.WinState", "class_player_owned_states_1_1_win_state.html", null ]
     ] ],
     [ "MonoBehaviour", null, [
@@ -61,6 +61,7 @@ var hierarchy =
       [ "DoxygenTest", "class_doxygen_test.html", null ],
       [ "EncyclopediaController", "class_encyclopedia_controller.html", null ],
       [ "ExtinguisherRose", "class_extinguisher_rose.html", null ],
+      [ "FireBall", "class_fire_ball.html", null ],
       [ "FlameRose", "class_flame_rose.html", null ],
       [ "FlammableRose", "class_flammable_rose.html", null ],
       [ "FloatRose", "class_float_rose.html", null ],
@@ -68,6 +69,7 @@ var hierarchy =
       [ "FreezeRose", "class_freeze_rose.html", null ],
       [ "IngameCanvasController", "class_ingame_canvas_controller.html", null ],
       [ "InteractiveObject", "class_interactive_object.html", null ],
+      [ "LevelEditor", "class_level_editor.html", null ],
       [ "LevelInfos", "class_level_infos.html", null ],
       [ "LevelSelectCardController", "class_level_select_card_controller.html", null ],
       [ "LoadingSceneController", "class_loading_scene_controller.html", null ],

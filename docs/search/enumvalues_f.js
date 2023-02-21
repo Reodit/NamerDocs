@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sun_0',['Sun',['../_card_enum_8cs.html#aad2a60cc5561af8c35f0088a8d024d6caef6572e4cd58bb39a3f4e82fc64fe9f0',1,'CardEnum.cs']]]
+  ['up_0',['up',['../_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4a46c48bec0d282018b9d167eef7711b2c',1,'DetectManager.cs']]]
 ];

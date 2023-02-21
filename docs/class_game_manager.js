@@ -15,6 +15,7 @@ var class_game_manager =
     [ "cameraController", "class_game_manager.html#a97c0edd3eee4f4b2f92cd2117d32149c", null ],
     [ "cameraKey", "class_game_manager.html#a70040e2c0ea1f577dc45d2630a4c1c3c", null ],
     [ "cardToggleKey", "class_game_manager.html#ad548ceae05a889b629978aad0469f29f", null ],
+    [ "flowShader", "class_game_manager.html#a231ea3fbbc37fc8954a6bc76334ab62f", null ],
     [ "interactionKey", "class_game_manager.html#a7ecd529eac78220689bf3df0124f0d8e", null ],
     [ "isPlayerCanInput", "class_game_manager.html#aa2155b3e75e20128e5447c830853bbc6", null ],
     [ "isPlayerDoAction", "class_game_manager.html#a7ec27893788a9fce8b51ebadf6b79a8d", null ],
