@@ -27,7 +27,7 @@ var searchData=
   ['flowrose_2ecs_24',['FlowRose.cs',['../_flow_rose_8cs.html',1,'']]],
   ['flowshader_25',['flowShader',['../class_game_manager.html#a231ea3fbbc37fc8954a6bc76334ab62f',1,'GameManager']]],
   ['focusoff_26',['FocusOff',['../class_camera_controller.html#a16c89a213f96a371da72d740541d2db2',1,'CameraController']]],
-  ['focuson_27',['FocusOn',['../class_camera_controller.html#ae0aa1900c162e0eb2df3face6aec3254',1,'CameraController']]],
+  ['focuson_27',['FocusOn',['../class_camera_controller.html#a327fa070d71e3cfbb7c4c58f70cf965c',1,'CameraController.FocusOn(bool canMove=true)'],['../class_camera_controller.html#ae0aa1900c162e0eb2df3face6aec3254',1,'CameraController.FocusOn(Transform target, bool canMove=true)']]],
   ['fortester_28',['ForTester',['../class_game_manager.html#ae0ae330a9faf056378b7ef1440ae739a',1,'GameManager']]],
   ['fortestpurpos_29',['ForTestPurpos',['../class_detect_manager.html#a7f421cf0e666662672b5a46ca3e79751',1,'DetectManager']]],
   ['forward_30',['forward',['../_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4a965dbaac085fc891bfbbd4f9d145bbc8',1,'DetectManager.cs']]],

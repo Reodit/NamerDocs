@@ -99,5 +99,6 @@ var annotated_dup =
     [ "UIManager", "class_u_i_manager.html", "class_u_i_manager" ],
     [ "VirtualJoystick", "class_virtual_joystick.html", "class_virtual_joystick" ],
     [ "WinAdj", "class_win_adj.html", "class_win_adj" ],
-    [ "WinRose", "class_win_rose.html", null ]
+    [ "WinRose", "class_win_rose.html", null ],
+    [ "Word", "struct_word.html", "struct_word" ]
 ];

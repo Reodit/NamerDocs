@@ -6,7 +6,6 @@ var class_ingame_canvas_controller =
     [ "EncyclopediaOpen", "class_ingame_canvas_controller.html#a0a6745144b0a46cffd4981dd9ef2f368", null ],
     [ "GameOff", "class_ingame_canvas_controller.html#ab1847694a0f9d84bbdae2dae787bb28c", null ],
     [ "GameOptionPanelOn", "class_ingame_canvas_controller.html#a99110041cc46a964fb42ef2e9c792319", null ],
-    [ "InteractionButton", "class_ingame_canvas_controller.html#a2f761400570fadc22f77dddcf0bede64", null ],
     [ "OnPointerEnter", "class_ingame_canvas_controller.html#a3cd4f8fecc382f4122ab90172886bdef", null ],
     [ "OnPointerExit", "class_ingame_canvas_controller.html#aaa7e47d5af7b9f032cbe44486984d3b5", null ],
     [ "OptionBtn", "class_ingame_canvas_controller.html#a63d7c285c13b373f8f474153931d5504", null ],

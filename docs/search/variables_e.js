@@ -10,5 +10,6 @@ var searchData=
   ['playerposition_7',['playerPosition',['../struct_s_level_data.html#a24038b6040573a94173b4a53eb989245',1,'SLevelData']]],
   ['pos_8',['pos',['../class_p_r_s.html#a451b0926048dfdbaf93dc1a0673a9d66',1,'PRS']]],
   ['prefabname_9',['prefabName',['../struct_s_object_info.html#a28ac75260517c774676ab0489c6e6eca',1,'SObjectInfo']]],
-  ['priority_10',['priority',['../struct_s_name_info.html#a8b7d4c678fa2c1e86c2659f7ca2ba45e',1,'SNameInfo.priority()'],['../struct_s_adjective_info.html#aa80176c8b0289e6a5eb9d45d053eb39c',1,'SAdjectiveInfo.priority()']]]
+  ['prepos_10',['prePos',['../struct_scenario.html#af7d0a0fb3a4371107f7f4cf98fa6d485',1,'Scenario']]],
+  ['priority_11',['priority',['../struct_s_name_info.html#a8b7d4c678fa2c1e86c2659f7ca2ba45e',1,'SNameInfo.priority()'],['../struct_s_adjective_info.html#aa80176c8b0289e6a5eb9d45d053eb39c',1,'SAdjectiveInfo.priority()']]]
 ];

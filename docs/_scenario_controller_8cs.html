@@ -102,6 +102,8 @@ $(document).ready(function(){initNavTree('_scenario_controller_8cs.html',''); in
 Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_scenario.html">Scenario</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_word.html">Word</a></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_scenario_controller.html">ScenarioController</a></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -114,9 +116,24 @@ Enumerations</h2></td></tr>
 , <a class="el" href="_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17dea277615d2e401b2e83c706f5cef25e74f">MouseClick</a>
 , <br />
 &#160;&#160;<a class="el" href="_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17dea1f5c647d9066bc9e350b70aa2d16aec4">Victory</a>
+, <a class="el" href="_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17dea82c98b3a548180d1781398c8fe88c108">InputKey</a>
+, <a class="el" href="_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17dea07cc694b9b3fc636710fa08b6922c42b">time</a>
 <br />
  }</td></tr>
 <tr class="separator:a255d9e8161e0a3bd0f1353a9b62a17de"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a0225a127d1e5de3d6ebbee73dacd8123"><td class="memItemLeft" align="right" valign="top">enum &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123">EKeyType</a> { <br />
+&#160;&#160;<a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123abbb93ef26e3c101ff11cdd21cab08a94">Null</a> = -1
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123af09564c9ca56850d4cd6b3319e541aee">Q</a> = 0
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123a3a3ea00cfc35332cedf6e5e9a32e94da">E</a>
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123ae1e1d3d40573127e9ee0480caf1283d6">R</a>
+, <br />
+&#160;&#160;<a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123ad511f8439ecde36647437fbba67a4394">Space</a>
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123a91f4253ca587ca8ac4e63b9ceb351f5d">Esc</a>
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123ac0b2ebd9f17081348825152bbf5dc18f">Encyclopedia</a>
+, <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123a5c6ba25104401c9ee0650230fc6ba413">Tab</a>
+<br />
+ }</td></tr>
+<tr class="separator:a0225a127d1e5de3d6ebbee73dacd8123"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="func-members" name="func-members"></a>
 Functions</h2></td></tr>
@@ -129,6 +146,30 @@ Variables</h2></td></tr>
 <tr class="separator:adb5d8c16d582a80ed4cbc715c8f5778d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a0225a127d1e5de3d6ebbee73dacd8123" name="a0225a127d1e5de3d6ebbee73dacd8123"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a0225a127d1e5de3d6ebbee73dacd8123">&#9670;&#160;</a></span>EKeyType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123">EKeyType</a></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123abbb93ef26e3c101ff11cdd21cab08a94" name="a0225a127d1e5de3d6ebbee73dacd8123abbb93ef26e3c101ff11cdd21cab08a94"></a>Null&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123af09564c9ca56850d4cd6b3319e541aee" name="a0225a127d1e5de3d6ebbee73dacd8123af09564c9ca56850d4cd6b3319e541aee"></a>Q&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123a3a3ea00cfc35332cedf6e5e9a32e94da" name="a0225a127d1e5de3d6ebbee73dacd8123a3a3ea00cfc35332cedf6e5e9a32e94da"></a>E&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123ae1e1d3d40573127e9ee0480caf1283d6" name="a0225a127d1e5de3d6ebbee73dacd8123ae1e1d3d40573127e9ee0480caf1283d6"></a>R&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123ad511f8439ecde36647437fbba67a4394" name="a0225a127d1e5de3d6ebbee73dacd8123ad511f8439ecde36647437fbba67a4394"></a>Space&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123a91f4253ca587ca8ac4e63b9ceb351f5d" name="a0225a127d1e5de3d6ebbee73dacd8123a91f4253ca587ca8ac4e63b9ceb351f5d"></a>Esc&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123ac0b2ebd9f17081348825152bbf5dc18f" name="a0225a127d1e5de3d6ebbee73dacd8123ac0b2ebd9f17081348825152bbf5dc18f"></a>Encyclopedia&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a0225a127d1e5de3d6ebbee73dacd8123a5c6ba25104401c9ee0650230fc6ba413" name="a0225a127d1e5de3d6ebbee73dacd8123a5c6ba25104401c9ee0650230fc6ba413"></a>Tab&#160;</td><td class="fielddoc"></td></tr>
+</table>
+
+</div>
+</div>
 <a id="a255d9e8161e0a3bd0f1353a9b62a17de" name="a255d9e8161e0a3bd0f1353a9b62a17de"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a255d9e8161e0a3bd0f1353a9b62a17de">&#9670;&#160;</a></span>ERequireType</h2>
 
@@ -146,6 +187,8 @@ Variables</h2></td></tr>
 <tr><td class="fieldname"><a id="a255d9e8161e0a3bd0f1353a9b62a17deac41efda3de3c909a01874d79883e8cac" name="a255d9e8161e0a3bd0f1353a9b62a17deac41efda3de3c909a01874d79883e8cac"></a>AddCard&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a255d9e8161e0a3bd0f1353a9b62a17dea277615d2e401b2e83c706f5cef25e74f" name="a255d9e8161e0a3bd0f1353a9b62a17dea277615d2e401b2e83c706f5cef25e74f"></a>MouseClick&#160;</td><td class="fielddoc"></td></tr>
 <tr><td class="fieldname"><a id="a255d9e8161e0a3bd0f1353a9b62a17dea1f5c647d9066bc9e350b70aa2d16aec4" name="a255d9e8161e0a3bd0f1353a9b62a17dea1f5c647d9066bc9e350b70aa2d16aec4"></a>Victory&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a255d9e8161e0a3bd0f1353a9b62a17dea82c98b3a548180d1781398c8fe88c108" name="a255d9e8161e0a3bd0f1353a9b62a17dea82c98b3a548180d1781398c8fe88c108"></a>InputKey&#160;</td><td class="fielddoc"></td></tr>
+<tr><td class="fieldname"><a id="a255d9e8161e0a3bd0f1353a9b62a17dea07cc694b9b3fc636710fa08b6922c42b" name="a255d9e8161e0a3bd0f1353a9b62a17dea07cc694b9b3fc636710fa08b6922c42b"></a>time&#160;</td><td class="fielddoc"></td></tr>
 </table>
 
 </div>

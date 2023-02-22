@@ -137,5 +137,6 @@ var hierarchy =
     [ "SPosition", "struct_s_position.html", null ],
     [ "StateMachine< T >", "class_state_machine.html", null ],
     [ "StateMachine< PlayerEntity >", "class_state_machine.html", null ],
-    [ "SUserData", "struct_s_user_data.html", null ]
+    [ "SUserData", "struct_s_user_data.html", null ],
+    [ "Word", "struct_word.html", null ]
 ];

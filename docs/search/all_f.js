@@ -1,8 +1,8 @@
 var searchData=
 [
   ['n_0',['n',['../_scenario_controller_8cs.html#adb5d8c16d582a80ed4cbc715c8f5778d',1,'ScenarioController.cs']]],
-  ['name_1',['name',['../struct_name_info.html#a7aa7de3d7c8be3d1e4b462e53a071967',1,'NameInfo.name()'],['../struct_s_name_info.html#ac1e1938ff3e9af5f2070c5940763abd8',1,'SNameInfo.name()']]],
-  ['name_2',['Name',['../_card_enum_8cs.html#a31d6a0534b5fe7639eb828a02e6dbfaaa49ee3087348e8d44e1feda1917443987',1,'CardEnum.cs']]],
+  ['name_1',['Name',['../_card_enum_8cs.html#a31d6a0534b5fe7639eb828a02e6dbfaaa49ee3087348e8d44e1feda1917443987',1,'CardEnum.cs']]],
+  ['name_2',['name',['../struct_name_info.html#a7aa7de3d7c8be3d1e4b462e53a071967',1,'NameInfo.name()'],['../struct_s_name_info.html#ac1e1938ff3e9af5f2070c5940763abd8',1,'SNameInfo.name()']]],
   ['namecanclebtn_3',['NameCancleBtn',['../class_stage_clear_panel_controller.html#a7f02d415618f00f9e512156a462c36ce',1,'StageClearPanelController']]],
   ['nameconfirmbtn_4',['NameConfirmBtn',['../class_stage_clear_panel_controller.html#a5fff617b00c743682f2c68a443de4484',1,'StageClearPanelController']]],
   ['namedata_5',['NameData',['../class_name_data.html',1,'']]],
@@ -23,7 +23,7 @@ var searchData=
   ['nextpos_20',['nextPos',['../struct_scenario.html#a8bf56d7f265ffa729543df566ecbd6f5',1,'Scenario']]],
   ['nickname_21',['nickName',['../struct_s_user_data.html#a7960bc8e7d048e6a67321fb3da5718c6',1,'SUserData']]],
   ['normal_22',['Normal',['../_card_enum_8cs.html#a1da83ed324e052207074223524c09423a960b44c579bc2f6818d2daaf9e4c16f0',1,'CardEnum.cs']]],
-  ['null_23',['Null',['../_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4abbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;DetectManager.cs'],['../_card_enum_8cs.html#aad2a60cc5561af8c35f0088a8d024d6cabbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;CardEnum.cs'],['../_card_enum_8cs.html#a5c13c279d45648df0f1286a398876cb2abbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;CardEnum.cs'],['../_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17deabbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;ScenarioController.cs']]],
+  ['null_23',['Null',['../_detect_manager_8cs.html#a7cf6e8c5a5bc5e7b2afef3647870b1c4abbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;DetectManager.cs'],['../_card_enum_8cs.html#aad2a60cc5561af8c35f0088a8d024d6cabbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;CardEnum.cs'],['../_card_enum_8cs.html#a5c13c279d45648df0f1286a398876cb2abbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;CardEnum.cs'],['../_scenario_controller_8cs.html#a255d9e8161e0a3bd0f1353a9b62a17deabbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;ScenarioController.cs'],['../_scenario_controller_8cs.html#a0225a127d1e5de3d6ebbee73dacd8123abbb93ef26e3c101ff11cdd21cab08a94',1,'Null():&#160;ScenarioController.cs']]],
   ['nulladj_24',['NullAdj',['../class_null_adj.html',1,'']]],
   ['nulladj_2ecs_25',['NullAdj.cs',['../_null_adj_8cs.html',1,'']]]
 ];
