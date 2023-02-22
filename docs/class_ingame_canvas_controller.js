@@ -1,5 +1,6 @@
 var class_ingame_canvas_controller =
 [
+    [ "BtnPressedSound", "class_ingame_canvas_controller.html#a577104a2224a94dc929de0e991a113b1", null ],
     [ "CardToggleButton", "class_ingame_canvas_controller.html#af6b51dd970046cd63426935d85f9352e", null ],
     [ "EncyclopediaClose", "class_ingame_canvas_controller.html#ad84a9dd675f3b025e5e9d52e6dd12fcd", null ],
     [ "EncyclopediaOpen", "class_ingame_canvas_controller.html#a0a6745144b0a46cffd4981dd9ef2f368", null ],

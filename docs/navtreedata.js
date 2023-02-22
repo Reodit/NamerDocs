@@ -54,8 +54,8 @@ var NAVTREEINDEX =
 [
 "_8___interaction_sequencer_8cs.html",
 "class_detect_manager.html#a5a28e44c22954543d712dcbd1f0c1914",
-"class_loading_scene_controller.html#a5d51674cfb9fd07e28eb5e7e53125de1",
-"class_u_i_manager.html#a59a23d1089915388aa738fd62c94871e"
+"class_loading_scene_controller.html",
+"class_u_i_manager.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
