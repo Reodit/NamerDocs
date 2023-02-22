@@ -18,6 +18,7 @@ var class_sound_manager =
     [ "audioMixer", "class_sound_manager.html#a52e06bd9605781481ab13a3049a36c68", null ],
     [ "BGMSlider", "class_sound_manager.html#a619ae493a5a3a3a4abcd4af22716b1b6", null ],
     [ "bgmSound", "class_sound_manager.html#aba98052623eb4e6b0ff5052f25e7d316", null ],
+    [ "bgToggle", "class_sound_manager.html#a8f15b5769a1d73a5a06eb0f881a98ef6", null ],
     [ "curBGMSoundTrack", "class_sound_manager.html#a0d0263b8e97a005b9155630ee5a26d6d", null ],
     [ "isBgToggleOn", "class_sound_manager.html#aec220165a678177958db8df776cb20fb", null ],
     [ "isMuteToggleOn", "class_sound_manager.html#a1788fa9e9947c58f8631b6eef6cb68d1", null ],

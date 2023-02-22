@@ -1,4 +1,4 @@
 <map id="SoundManager" name="SoundManager">
-<area shape="rect" id="node1" title=" " alt="" coords="5,131,200,545"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,131,200,560"/>
 <area shape="rect" id="node2" href="$class_singleton.html" title=" " alt="" coords="9,5,196,83"/>
 </map>
