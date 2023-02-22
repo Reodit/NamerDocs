@@ -1,10 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"class_u_i_manager.html":[1,0,87],
-"class_u_i_manager.html#a0476034c1d9fcecd50f13b3d5183c681":[1,0,87,6],
-"class_u_i_manager.html#a126a57b37b8e2c238961a7c72d0906dd":[1,0,87,1],
-"class_u_i_manager.html#a59a23d1089915388aa738fd62c94871e":[1,0,87,5],
-"class_u_i_manager.html#a78e78b6fe7ae67a5d77e47819e7e7566":[1,0,87,4],
 "class_u_i_manager.html#aa48f776f1a9d44ff6d565520269c2973":[1,0,87,3],
 "class_u_i_manager.html#ad86967e7369944bf69cfe4b4ebeff6ed":[1,0,87,0],
 "class_u_i_manager.html#af0f7cfd26bd30514180a013d797995ec":[1,0,87,2],

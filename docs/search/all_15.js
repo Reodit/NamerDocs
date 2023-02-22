@@ -12,6 +12,6 @@ var searchData=
   ['updatetxt_9',['UpdateTxt',['../class_planet_obj_controller.html#a88d9243ddd301031ebe27df4dc882c33',1,'PlanetObjController']]],
   ['updateuserdata_10',['UpdateUserData',['../class_game_data_manager.html#a7b2f5760c90bbb9e97290e11fbfe92c4',1,'GameDataManager']]],
   ['userdatadic_11',['UserDataDic',['../class_game_data_manager.html#a79d592e1e01f03723bdab34111bc274f',1,'GameDataManager']]],
-  ['userid_12',['userID',['../struct_s_user_data.html#aebc6a2fa88046e52000f057e0a530510',1,'SUserData']]],
-  ['userid_13',['userId',['../class_game_manager.html#af2742cf4fda0164f5cefdfe7aa5da6d6',1,'GameManager']]]
+  ['userid_12',['userId',['../class_game_manager.html#af2742cf4fda0164f5cefdfe7aa5da6d6',1,'GameManager']]],
+  ['userid_13',['userID',['../struct_s_user_data.html#aebc6a2fa88046e52000f057e0a530510',1,'SUserData']]]
 ];
