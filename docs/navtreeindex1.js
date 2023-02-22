@@ -1,6 +1,5 @@
 var NAVTREEINDEX1 =
 {
-"class_detect_manager.html#a59a9f052fbd5e0f95622cde708de3586":[1,0,14,32],
 "class_detect_manager.html#a5a28e44c22954543d712dcbd1f0c1914":[1,0,14,35],
 "class_detect_manager.html#a5d4f75d81968b21a3c427178d82fbb6c":[1,0,14,40],
 "class_detect_manager.html#a62c7835aeb44f00ec41ae190032574aa":[1,0,14,28],
@@ -249,5 +248,6 @@ var NAVTREEINDEX1 =
 "class_light_adj.html#ac9754ab91c9a652363a4f17d976f3e18":[1,0,42,7],
 "class_light_adj.html#ace2bc44aed1784007d7eb57291d28cfc":[1,0,42,3],
 "class_light_adj.html#ad18d46acc3fea8858905a62cbe97f6ab":[1,0,42,0],
-"class_light_adj.html#af52e092f7c700254a3c246000a856de0":[1,0,42,1]
+"class_light_adj.html#af52e092f7c700254a3c246000a856de0":[1,0,42,1],
+"class_light_adj.html#afb6df1efd7b0aab6d7596b5a65fa811b":[1,0,42,2]
 };
