@@ -1,5 +1,6 @@
 var class_card_controller =
 [
+    [ "CardSelectOff", "class_card_controller.html#a03856b04777a12b5f693e47f75388e45", null ],
     [ "CastCard", "class_card_controller.html#ab8c801e01cebd1d9c26e38171a7d70e9", null ],
     [ "GetAdjectiveTypeOfCard", "class_card_controller.html#ad2227ede4746350af774b98b496f1499", null ],
     [ "MoveTransform", "class_card_controller.html#aede04e7fd0b2b66bea6f54904fe244b8", null ],

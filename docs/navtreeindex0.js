@@ -203,12 +203,13 @@ var NAVTREEINDEX0 =
 "class_camera_controller.html#ae0aa1900c162e0eb2df3face6aec3254":[1,0,4,2],
 "class_camera_controller.html#afa2993bed40ba71f06b790c8778383f3":[1,0,4,3],
 "class_card_controller.html":[1,0,5],
-"class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56":[1,0,5,5],
-"class_card_controller.html#a4ee9c24be57de9399b4bde544393b135":[1,0,5,3],
-"class_card_controller.html#ab005c71ee3314f6b93191fa32b3e35bd":[1,0,5,4],
-"class_card_controller.html#ab8c801e01cebd1d9c26e38171a7d70e9":[1,0,5,0],
-"class_card_controller.html#ad2227ede4746350af774b98b496f1499":[1,0,5,1],
-"class_card_controller.html#aede04e7fd0b2b66bea6f54904fe244b8":[1,0,5,2],
+"class_card_controller.html#a03856b04777a12b5f693e47f75388e45":[1,0,5,0],
+"class_card_controller.html#a04d8fc34f9cd0ad556503fce5936fb56":[1,0,5,6],
+"class_card_controller.html#a4ee9c24be57de9399b4bde544393b135":[1,0,5,4],
+"class_card_controller.html#ab005c71ee3314f6b93191fa32b3e35bd":[1,0,5,5],
+"class_card_controller.html#ab8c801e01cebd1d9c26e38171a7d70e9":[1,0,5,1],
+"class_card_controller.html#ad2227ede4746350af774b98b496f1499":[1,0,5,2],
+"class_card_controller.html#aede04e7fd0b2b66bea6f54904fe244b8":[1,0,5,3],
 "class_card_manager.html":[1,0,6],
 "class_card_manager.html#a1d86c7c153d0e92b467b2fd2fd46eac8":[1,0,6,10],
 "class_card_manager.html#a3773da5e3cd5b5a8c646320d060d1fac":[1,0,6,4],
@@ -248,6 +249,5 @@ var NAVTREEINDEX0 =
 "class_detect_manager.html#a11269c740951e68efee8912aa18ae6e3":[1,0,14,26],
 "class_detect_manager.html#a149e52fc2b9054eb43995b791324f54a":[1,0,14,27],
 "class_detect_manager.html#a172bcdd3f2514af2e5cd5db4a19c7ae6":[1,0,14,16],
-"class_detect_manager.html#a201a1774602543c48f8c0708980c948c":[1,0,14,8],
-"class_detect_manager.html#a2029cd71cc41c68935fce78b8ef0a12f":[1,0,14,39]
+"class_detect_manager.html#a201a1774602543c48f8c0708980c948c":[1,0,14,8]
 };

@@ -43,6 +43,7 @@ var searchData=
   ['istate_40',['IState',['../interface_i_state.html',1,'']]],
   ['istate_2ecs_41',['IState.cs',['../_i_state_8cs.html',1,'']]],
   ['istate_3c_20playerentity_20_3e_42',['IState&lt; PlayerEntity &gt;',['../interface_i_state.html',1,'']]],
-  ['isui_43',['isUI',['../class_scenario_controller.html#a78bb99b001da0ce69726df425bff7565',1,'ScenarioController']]],
-  ['iteratethroughmap_44',['IterateThroughMap',['../class_detect_manager.html#ad83d84a4866870f32891fdb7a1502510',1,'DetectManager']]]
+  ['istouched_43',['isTouched',['../class_interactive_object.html#a34f19ae34d455710300df5938f4ec57b',1,'InteractiveObject.isTouched()'],['../class_main_menu_object.html#aaa168c1801dc569142efa9e0eefb0be5',1,'MainMenuObject.isTouched()']]],
+  ['isui_44',['isUI',['../class_scenario_controller.html#a78bb99b001da0ce69726df425bff7565',1,'ScenarioController']]],
+  ['iteratethroughmap_45',['IterateThroughMap',['../class_detect_manager.html#ad83d84a4866870f32891fdb7a1502510',1,'DetectManager']]]
 ];

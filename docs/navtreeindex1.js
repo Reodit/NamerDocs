@@ -1,5 +1,6 @@
 var NAVTREEINDEX1 =
 {
+"class_detect_manager.html#a2029cd71cc41c68935fce78b8ef0a12f":[1,0,14,39],
 "class_detect_manager.html#a20f7f66f12bc8bd1cf19357575613056":[1,0,14,25],
 "class_detect_manager.html#a2b7bbf03121d4be510f4f1ee8851bfc4":[1,0,14,3],
 "class_detect_manager.html#a2f9eef8072e8ec01613d03e3a0072a8d":[1,0,14,21],
@@ -228,8 +229,9 @@ var NAVTREEINDEX1 =
 "class_interaction_sequencer.html#a501bf78c83a915289cf93847c6614ab7":[1,0,36,3],
 "class_interaction_sequencer.html#a790fe1ad85d0eb6d0f62d4540aa5b390":[1,0,36,1],
 "class_interactive_object.html":[1,0,37],
+"class_interactive_object.html#a34f19ae34d455710300df5938f4ec57b":[1,0,37,9],
 "class_interactive_object.html#a5aee145deb94a8992b4265470534b98b":[1,0,37,2],
-"class_interactive_object.html#a6399e7745510846bccb6bae7bd309722":[1,0,37,9],
+"class_interactive_object.html#a6399e7745510846bccb6bae7bd309722":[1,0,37,10],
 "class_interactive_object.html#a69b0879b9ccb02f5974dd71bfa916902":[1,0,37,0],
 "class_interactive_object.html#a71aaa915caff54f2628fd1c1ee964a1e":[1,0,37,5],
 "class_interactive_object.html#a76fc087ad5223a69441f4afd5cc307e5":[1,0,37,1],
@@ -237,7 +239,7 @@ var NAVTREEINDEX1 =
 "class_interactive_object.html#a85aba507d55d699c80730f7de922bffa":[1,0,37,8],
 "class_interactive_object.html#a906e38c64b267dbbaefb4aebbdd47b52":[1,0,37,3],
 "class_interactive_object.html#ae8ba948dd12f490d197f3595dc449fd0":[1,0,37,7],
-"class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb":[1,0,37,10],
+"class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb":[1,0,37,11],
 "class_interactive_object.html#aeeeff600e9adb309e86032285c94885f":[1,0,37,4],
 "class_level_editor.html":[1,0,39],
 "class_level_infos.html":[1,0,40],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "class_level_infos.html#a857456ee7f1f0864c493e1844bc42e59":[1,0,40,7],
 "class_level_infos.html#a8d7ae7de51763850f3de48d4ece6e52b":[1,0,40,3],
 "class_level_infos.html#acedc44d1b4b93a19df6d905f3eb49f08":[1,0,40,6],
-"class_level_infos.html#ae4b9b8628236256c89844743e40a0c8e":[1,0,40,1],
-"class_level_infos.html#ae7f20cecae0ac2fd6061625aaab9a7e0":[1,0,40,5],
-"class_level_infos.html#af65fc891cee455de6d7f2810cf49fdb7":[1,0,40,8]
+"class_level_infos.html#ae4b9b8628236256c89844743e40a0c8e":[1,0,40,1]
 };
