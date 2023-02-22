@@ -9,7 +9,6 @@ var class_interactive_object =
     [ "GetObjectID", "class_interactive_object.html#a781f4bbc6f8ce61d456128d62f5d0b2f", null ],
     [ "GetObjectName", "class_interactive_object.html#ae8ba948dd12f490d197f3595dc449fd0", null ],
     [ "SubtractAdjective", "class_interactive_object.html#a85aba507d55d699c80730f7de922bffa", null ],
-    [ "isTouched", "class_interactive_object.html#a34f19ae34d455710300df5938f4ec57b", null ],
     [ "objectInfo", "class_interactive_object.html#a6399e7745510846bccb6bae7bd309722", null ],
     [ "Adjectives", "class_interactive_object.html#aec659c3f7ddec40fa5baaa56ebe735eb", null ]
 ];

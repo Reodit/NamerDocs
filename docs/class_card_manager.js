@@ -3,6 +3,8 @@ var class_card_manager =
     [ "AddCard", "class_card_manager.html#ac4a39e57f03519a33c4425760d36eaed", null ],
     [ "CardAlignment", "class_card_manager.html#aa9ac2d8b3083440e28d4f855e5678601", null ],
     [ "CardsDown", "class_card_manager.html#aae6a8c77d975fd607c3ea3c78b4f88f1", null ],
+    [ "CardsHide", "class_card_manager.html#ae3311fe169d3c6ab43cea191a240a38d", null ],
+    [ "CardsReveal", "class_card_manager.html#a3ebd43a6bb5a65144ad341cf148c1886", null ],
     [ "CardStart", "class_card_manager.html#aa975943ccaa8e4ad5acdfa487d07d053", null ],
     [ "CardsUp", "class_card_manager.html#a3773da5e3cd5b5a8c646320d060d1fac", null ],
     [ "MainCardAlignment", "class_card_manager.html#a6d2a62e12d14f6d01bc9ce34f99ebe29", null ],

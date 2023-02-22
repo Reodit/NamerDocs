@@ -22,6 +22,5 @@ var searchData=
   ['isplayerdoaction_19',['isPlayerDoAction',['../class_game_manager.html#a7ec27893788a9fce8b51ebadf6b79a8d',1,'GameManager']]],
   ['isshownamekeypressed_20',['isShowNameKeyPressed',['../class_u_i_manager.html#a59a23d1089915388aa738fd62c94871e',1,'UIManager']]],
   ['isstretched_21',['isStretched',['../class_level_infos.html#a5a4924b9efee698baccdab758e45ce6f',1,'LevelInfos']]],
-  ['istouched_22',['isTouched',['../class_interactive_object.html#a34f19ae34d455710300df5938f4ec57b',1,'InteractiveObject.isTouched()'],['../class_main_menu_object.html#aaa168c1801dc569142efa9e0eefb0be5',1,'MainMenuObject.isTouched()']]],
-  ['isui_23',['isUI',['../class_scenario_controller.html#a78bb99b001da0ce69726df425bff7565',1,'ScenarioController']]]
+  ['isui_22',['isUI',['../class_scenario_controller.html#a78bb99b001da0ce69726df425bff7565',1,'ScenarioController']]]
 ];
