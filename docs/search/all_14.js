@@ -16,8 +16,7 @@ var searchData=
   ['testswapvalue_13',['TestSwapValue',['../class_detect_manager.html#a2029cd71cc41c68935fce78b8ef0a12f',1,'DetectManager']]],
   ['tilemapdata_14',['tileMapData',['../struct_s_map_data.html#ab0683d3ee39ad311b1ffba7f4c93f3ba',1,'SMapData']]],
   ['title_15',['Title',['../_main_u_i_controller_8cs.html#a18a725024ae7d7d2e40fc2a1ce9d1bf5ab78a3223503896721cca1303f776159b',1,'MainUIController.cs']]],
-  ['touchinteractobj_16',['TouchInteractObj',['../class_card_controller.html#a4ee9c24be57de9399b4bde544393b135',1,'CardController.TouchInteractObj()'],['../class_main_menu_card_controller.html#a02149dfe381bd359c74df3e5e30403d3',1,'MainMenuCardController.TouchInteractObj()']]],
-  ['tree_17',['Tree',['../_card_enum_8cs.html#aad2a60cc5561af8c35f0088a8d024d6ca3b0c14770e6bd663518496da60f524da',1,'CardEnum.cs']]],
-  ['turnonandoffloadingimg_18',['TurnOnAndOffLoadingImg',['../class_ingame_canvas_controller.html#a3ba00966031122cfc9e5c0dee390a444',1,'IngameCanvasController']]],
-  ['type_19',['type',['../struct_scenario.html#ae8b48712fd6fda2fe3f212ce041bb0cd',1,'Scenario']]]
+  ['tree_16',['Tree',['../_card_enum_8cs.html#aad2a60cc5561af8c35f0088a8d024d6ca3b0c14770e6bd663518496da60f524da',1,'CardEnum.cs']]],
+  ['turnonandoffloadingimg_17',['TurnOnAndOffLoadingImg',['../class_ingame_canvas_controller.html#a3ba00966031122cfc9e5c0dee390a444',1,'IngameCanvasController']]],
+  ['type_18',['type',['../struct_scenario.html#ae8b48712fd6fda2fe3f212ce041bb0cd',1,'Scenario']]]
 ];

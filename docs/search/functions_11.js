@@ -10,6 +10,5 @@ var searchData=
   ['testgetadjacentsdict_7',['TestGetAdjacentsDict',['../class_detect_manager.html#a7e400ad831d14c7ba9ad5c2a72cf0fe5',1,'DetectManager']]],
   ['testsetfortestpurposelist_8',['TestSetForTestPurposeList',['../class_detect_manager.html#ad50c0e6b87a65cbbae706a6776e48a81',1,'DetectManager']]],
   ['testswapvalue_9',['TestSwapValue',['../class_detect_manager.html#a2029cd71cc41c68935fce78b8ef0a12f',1,'DetectManager']]],
-  ['touchinteractobj_10',['TouchInteractObj',['../class_card_controller.html#a4ee9c24be57de9399b4bde544393b135',1,'CardController.TouchInteractObj()'],['../class_main_menu_card_controller.html#a02149dfe381bd359c74df3e5e30403d3',1,'MainMenuCardController.TouchInteractObj()']]],
-  ['turnonandoffloadingimg_11',['TurnOnAndOffLoadingImg',['../class_ingame_canvas_controller.html#a3ba00966031122cfc9e5c0dee390a444',1,'IngameCanvasController']]]
+  ['turnonandoffloadingimg_10',['TurnOnAndOffLoadingImg',['../class_ingame_canvas_controller.html#a3ba00966031122cfc9e5c0dee390a444',1,'IngameCanvasController']]]
 ];
